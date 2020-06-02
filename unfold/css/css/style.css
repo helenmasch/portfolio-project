@@ -213,7 +213,7 @@ a {
               padding-left: 30px;
               padding-right: 30px;
               display: block;
-              color: gray; }
+              color: black; }
               .unslate_co--site-nav .site-nav-ul > li.has-children > .dropdown > li a:hover, .unslate_co--site-nav .site-nav-ul > li.has-children > ul > li a:hover, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > .dropdown > li a:hover, .unslate_co--site-nav .site-nav-ul-none-onepage > li.has-children > ul > li a:hover {
                 color: #000;
                 background: #f9f9f9;
@@ -1491,3 +1491,9 @@ span.error {
     height: 100%;
     border: 1px solid red;
     background: #000; }
+
+
+    
+/* .nav-link {
+  color: black
+} */

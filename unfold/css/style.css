@@ -208,9 +208,11 @@ a, a:hover {
 .unslate_co--site-nav .site-nav-ul > li > a, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a {
   padding: 10px 7px;
   display: block;
-  color: #fff;
-  font-size: 14px;
+  color: whitesmoke;
+  font-size: 20px;
   position: relative;
+  font-weight: bolder;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:before {
